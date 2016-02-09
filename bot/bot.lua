@@ -252,6 +252,7 @@ function create_config( )
    ????????
    ??   our admins are : 
    ??   @amirmr33   ????????
+   ??   @crazyboy10   ????????
   ?? You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامي درخواست ها و همه ي انتقادات و حرفاتونو با دستور زير بفرستين به ما
    !feedback (your ideas and messages)
